@@ -26,7 +26,7 @@ expense-manager/
 ## How to Clone the Project
 To clone this project to your local machine, run:
 
-git clone https://github.com/Adesuwa16/ade.git
+git clone https://github.com/Adesuwa16/Altschool_Adesuwa.git
 ```
 
 ---
